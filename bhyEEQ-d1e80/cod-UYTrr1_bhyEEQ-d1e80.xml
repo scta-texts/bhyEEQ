@@ -14,7 +14,7 @@
       <editionStmt>
         <edition n="0.0.0-dev">
           <title>Prologus</title>
-          <date when="2019-07-23">July 23, 2019</date>
+          <date when="2019-08-19">August 19, 2019</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -42,7 +42,7 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
-        <change when="2019-07-23" status="draft" n="0.0.0">
+        <change when="2019-08-19" status="draft" n="0.0.0">
           <p>Created file for the first time.</p>
         </change>
       </listChange>
@@ -55,7 +55,7 @@
     <body>
       <div xml:id="bhyEEQ-d1e80">
         <head>Prologus</head>
-      </div>
-    </body>
-  </text>
-</TEI>
+        <head> Incipit tractatus bonus</head>
+        <head>De longitudine er brevitate vite </head>
+        <p>Quoniam rerum viventium esse et conservatio in continuatione vite et causis eius fundantur, substantiarum autem corruptio ad mortem terminatur, et cum ipsa ad invicem in longitudine et brevitate vite et causis earum multiplices diversitates participent, dignum est ut componatur tractatus de hiis causis vite et mortis; et de longitudine ac brevitate vite et causis pertractetur. </p>
+        <p>Hic autem tractatus continet tria: Primo agit de causis vite et mortis. Secundo de modis et causis corruptionum generalibus ac specialibus et de preservantibus ab ipsis. Tertio de longitudine ac brevitate vite omnium viventium et causis earum.</p>
